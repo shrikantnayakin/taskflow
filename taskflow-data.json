@@ -297,14 +297,6 @@
       "owners": []
     },
     {
-      "username": "Sushant",
-      "password": "s",
-      "role": "operator",
-      "owners": [
-        "Sushant"
-      ]
-    },
-    {
       "username": "sk",
       "password": "s",
       "role": "operator",
