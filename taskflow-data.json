@@ -295,6 +295,14 @@
       "password": "r",
       "role": "admin",
       "owners": []
+    },
+    {
+      "username": "Sushant",
+      "password": "s",
+      "role": "operator",
+      "owners": [
+        "Sushant"
+      ]
     }
   ],
   "tf_roles": [
