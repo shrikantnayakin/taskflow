@@ -303,6 +303,14 @@
       "owners": [
         "Sushant"
       ]
+    },
+    {
+      "username": "sk",
+      "password": "s",
+      "role": "operator",
+      "owners": [
+        "Sushant"
+      ]
     }
   ],
   "tf_roles": [
