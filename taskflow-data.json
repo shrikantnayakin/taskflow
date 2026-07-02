@@ -155,7 +155,7 @@
       "owner": "Shivam",
       "status": "Open",
       "dueDate": "2026-06-20",
-      "comments": "1. What is the difference between Admin and Account Holder users\n2. If i am a Member and i wants some rights then i don't know who is the Admin or Account holder\n3. When login in SSO and click on App then error coming as Instance not connected\n4. When client did forgot password then password reset link Or OTP is not coming and sometimes its received in the name of Zwing.\n5. Wrong app URL linked\n6. If i removed a user in SSO then it was marked as Extinct in ERP, again wants to unextinct that user then in ERP its not allowing and in SSO that user is not available. if try to create again then its not allowing.\n7. Multiple instance need to link with SSO (Kalyan silk India, UAE, Qatar, Bahrain)-136760\n9. How to login Zwing POS  through SSO-137094",
+      "comments": "",
       "ref": "",
       "modifiedBy": "shrikant",
       "modifiedOn": "02 Jul 2026"
