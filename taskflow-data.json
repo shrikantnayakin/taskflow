@@ -239,6 +239,22 @@
       "ref": "",
       "modifiedBy": "shrikant",
       "modifiedOn": "02 Sept 2026"
+    },
+    {
+      "id": "mtjnddcitjh0",
+      "no": 16,
+      "addedOn": "02 Sept 2026",
+      "addedBy": "Rohit Aggarwal",
+      "category": "Training",
+      "point": "WMS Mobile App Training",
+      "subPoints": [],
+      "owner": "Triloki",
+      "status": "Open",
+      "dueDate": "2026-09-15",
+      "comments": "WMS Mobile App Training",
+      "ref": "",
+      "modifiedBy": "shrikant",
+      "modifiedOn": "02 Sept 2026"
     }
   ],
   "tf_categories": [
