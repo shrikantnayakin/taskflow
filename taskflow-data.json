@@ -33,24 +33,8 @@
       "modifiedOn": "28 May 2026"
     },
     {
-      "id": "moqfbnnvs8sh",
-      "no": 3,
-      "addedOn": "04 May 2026",
-      "addedBy": "Shrikant Nayak",
-      "category": "Operations",
-      "point": "Updated RCA Need to update in Salesforce",
-      "subPoints": [],
-      "owner": "Pranav",
-      "status": "Open",
-      "dueDate": "2026-06-30",
-      "comments": "",
-      "ref": "",
-      "modifiedBy": "shrikant",
-      "modifiedOn": "28 May 2026"
-    },
-    {
       "id": "moqfdanl8ah0",
-      "no": 4,
+      "no": 3,
       "addedOn": "04 May 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Operations",
@@ -73,7 +57,7 @@
     },
     {
       "id": "mor5siwnkflk",
-      "no": 5,
+      "no": 4,
       "addedOn": "04 May 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Data Analysis",
@@ -89,7 +73,7 @@
     },
     {
       "id": "moy0hhockz5l",
-      "no": 6,
+      "no": 5,
       "addedOn": "09 May 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Training",
@@ -105,7 +89,7 @@
     },
     {
       "id": "moy0iqvf5qa8",
-      "no": 7,
+      "no": 6,
       "addedOn": "09 May 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Training",
@@ -121,7 +105,7 @@
     },
     {
       "id": "moz62kcaxl61",
-      "no": 8,
+      "no": 7,
       "addedOn": "10 May 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Process",
@@ -137,7 +121,7 @@
     },
     {
       "id": "mp3toh5wqwek",
-      "no": 9,
+      "no": 8,
       "addedOn": "13 May 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Training",
@@ -153,7 +137,7 @@
     },
     {
       "id": "mp3tptsd9pq3",
-      "no": 10,
+      "no": 9,
       "addedOn": "13 May 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Training",
@@ -169,7 +153,7 @@
     },
     {
       "id": "mqc6qebisnzl",
-      "no": 11,
+      "no": 10,
       "addedOn": "13 Jun 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Process",
@@ -185,7 +169,7 @@
     },
     {
       "id": "mqc6ws7vz9rr",
-      "no": 12,
+      "no": 11,
       "addedOn": "13 Jun 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Process",
@@ -201,7 +185,7 @@
     },
     {
       "id": "mqccuiuidd70",
-      "no": 13,
+      "no": 12,
       "addedOn": "13 Jun 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Operations",
@@ -217,7 +201,7 @@
     },
     {
       "id": "mqkqv2lf96ms",
-      "no": 14,
+      "no": 13,
       "addedOn": "19 Jun 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Training",
@@ -233,7 +217,7 @@
     },
     {
       "id": "mtjna9aq8nqt",
-      "no": 15,
+      "no": 14,
       "addedOn": "02 Sept 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Training",
@@ -249,7 +233,7 @@
     },
     {
       "id": "mtjnddcitjh0",
-      "no": 16,
+      "no": 15,
       "addedOn": "02 Sept 2026",
       "addedBy": "Rohit Aggarwal",
       "category": "Training",
@@ -265,7 +249,7 @@
     },
     {
       "id": "mtjnih1o39mm",
-      "no": 17,
+      "no": 16,
       "addedOn": "02 Sept 2026",
       "addedBy": "Rohit Aggarwal",
       "category": "Training",
