@@ -54,12 +54,19 @@
       "addedOn": "04 May 2026",
       "addedBy": "Shrikant Nayak",
       "category": "Operations",
-      "point": "Case audit track update from activity to case history in Salesforce",
-      "subPoints": [],
+      "point": "Pending Points",
+      "subPoints": [
+        "SLA UAT need to discuss and close.",
+        "PMS Approval pending need to approve.",
+        "Customer closer automation is not working.",
+        "Customer not receiving case communications on mail.",
+        "Case audit track update from activity to case history in Salesforce",
+        "Updated RCA Need to update in Salesforce"
+      ],
       "owner": "Rohit",
       "status": "Open",
-      "dueDate": "2026-05-31",
-      "comments": "SLA UAT need to discuss and close.\nPMS Approval pending need to approve.\nCustomer closer automation is not working.\nCustomer not receiving case communications on mail. \nCase audit track update from activity to case history in Salesforce\nUpdated RCA Need to update in Salesforce",
+      "dueDate": "2026-09-30",
+      "comments": "",
       "ref": "",
       "modifiedBy": "shrikant",
       "modifiedOn": "29 Sept 2026"
