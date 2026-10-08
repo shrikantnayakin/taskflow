@@ -302,7 +302,7 @@
   "tf_users": [
     {
       "username": "shrikant",
-      "password": "123",
+      "password": "shrikant",
       "role": "admin"
     },
     {
